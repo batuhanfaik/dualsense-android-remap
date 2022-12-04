@@ -7,7 +7,7 @@ This Magisk module remaps the key layout of PS5 DualSense controller. It contain
 ## Installation
 
 1. Install Magisk
-2. Download the repo as zip
+2. Download the published [asset](https://github.com/batuhanfaik/dualsense-android-remap/releases/download/0.0.1/DualSenseRemap.zip). (Instead you can also download the repo as zip)
 3. Install zip via Magisk
 
 ## Additional Info
