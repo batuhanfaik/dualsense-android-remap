@@ -1,0 +1,6 @@
+id=DualSense
+name=Module to support PS5 DualSense Controller
+version=v1
+versionCode=1
+author=batuhanfaik
+description=This module adds .kl file (keylayout) for DualSense PS5
